@@ -1,0 +1,16 @@
+﻿key,0,1,2
+#,Item,SGB,Name
+int32,Item,ExportedSG,EObjName
+0,"",,
+1,"アイルポポト","bgcommon/mji/feed/0001/asset/fee_f0_m0001.sgb","アイルポポト"
+2,"アイルキャベツ","bgcommon/mji/feed/0006/asset/fee_f0_m0006.sgb","アイルキャベツ"
+3,"アイルベリー","bgcommon/mji/feed/0003/asset/fee_f0_m0003.sgb","アイルベリー"
+4,"アイルパンプキン","bgcommon/mji/feed/0005/asset/fee_f0_m0005.sgb","アイルパンプキン"
+5,"アイルオニオン","bgcommon/mji/feed/0007/asset/fee_f0_m0007.sgb","アイルオニオン"
+6,"アイルトマト","bgcommon/mji/feed/0008/asset/fee_f0_m0008.sgb","アイルトマト"
+7,"アイル小麦","bgcommon/mji/feed/0021/asset/fee_f0_m0021.sgb","アイル小麦"
+8,"アイルコーン","bgcommon/mji/feed/0013/asset/fee_f0_m0013.sgb","アイルコーン"
+9,"アイルパースニップ","bgcommon/mji/feed/0016/asset/fee_f0_m0016.sgb","アイルパースニップ"
+10,"アイルラディッシュ","bgcommon/mji/feed/0010/asset/fee_f0_m0010.sgb","アイルラディッシュ"
+11,"アイルパプリカ","bgcommon/mji/feed/0020/asset/fee_f0_m0020.sgb","アイルパプリカ"
+12,"アイルリーキ","bgcommon/mji/feed/0009/asset/fee_f0_m0009.sgb","アイルリーキ"
