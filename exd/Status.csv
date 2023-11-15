@@ -3826,7 +3826,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3721,"回転角3倍","次に発動する攻撃の回転角が3倍になる状態。","ui/icon/016000/016748.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3722,"回転角4倍","次に発動する攻撃の回転角が4倍になる状態。",,0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3723,"爆撃目標","標的となった状態。効果時間が終了すると、周囲に双数爆撃が発動する。","ui/icon/016000/016750.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3724,"減算爆雷α","減算爆雷が付着し、効果時間が終了すると大爆発を起こす状態。地雷魔紋の攻撃を受けることでスタック数が減少し、0になると解除される。","ui/icon/018000/018391.tex",0,4,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,199,0,False,False,0,27,False,0,False,0,False,0,0,0,False
+3724,"減算爆雷α","減算爆雷が付着し、戦闘不能時に大爆発を起こす状態。地雷魔紋の攻撃を受けることでスタック数が減少し、0になると解除される。","ui/icon/018000/018391.tex",0,4,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,199,0,False,False,0,27,False,0,False,0,False,0,0,0,False
 3725,"減算爆雷β","減算爆雷が付着し、効果時間が終了すると大爆発を起こす状態。立体魔紋の攻撃を受けることでスタック数が減少し、0になると解除される。","ui/icon/018000/018396.tex",0,4,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,199,0,False,False,0,27,False,0,False,0,False,0,0,0,False
 3726,"正面未解析","身体の正面のみ急所を見抜かれていない状態。
 背面、右側、左側から攻撃を受けると、大ダメージを受ける。","ui/icon/015000/015369.tex",0,0,"全クラス",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,100,0,False,False,0,28,True,0,False,0,False,0,0,0,False

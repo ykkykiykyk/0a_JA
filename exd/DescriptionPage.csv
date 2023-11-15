@@ -3646,9 +3646,10 @@ HPが100％のプレイヤーはメディカルキットに触れることがで
 針十万本のダメージ量は、受けたプレイヤーの人数に応じて分割されます。
 
 ・バリアテンダー
-ごくまれに出現する特殊なモンスターです。
 「鍼十万本」を実行し、範囲内にいるプレイヤーはバリア効果を得ます。
-バリアの効果量は、受けたプレイヤーの人数に応じて分割されます。","ui/icon/086000/086200.tex","","ui/icon/086000/086201.tex","","ui/icon/086000/086202.tex","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■オアシス■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+バリアの効果量は、受けたプレイヤーの人数に応じて分割されます。
+
+なお、オーバータイム中はモンスターが出現しなくなります。","ui/icon/086000/086200.tex","","ui/icon/086000/086201.tex","","ui/icon/086000/086202.tex","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■オアシス■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ステージ上に存在する特殊なエリアで、
 プレイヤーが立ち入ると、ＨＰの継続回復効果を受けられます。
 この効果は、オアシスから離れたあとも一定時間継続します。","ui/icon/086000/086203.tex","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■灼熱波■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
