@@ -1,133 +1,133 @@
 ﻿key,0,1,2
-#,FirstQuest,LastQuest,
+#,LastQuest,FirstQuest,
 int32,CompleteJournal,CompleteJournal,int32
-0,"","冒険者への手引き",0
-1,"冒険者への手引き","「暁」の在り方",1
-2,"「暁」の在り方","イシュガルドへ",1
-3,"イシュガルドへ","蒼天の未来",1
-4,"蒼天の未来","戦う者たちの休息",1
-5,"戦う者たちの休息","長城を越えて",1
-6,"長城を越えて","冒険の誘い",1
-7,"冒険の誘い","予感",1
-8,"予感","生命力の揺らぎ",1
-9,"生命力の揺らぎ","アリゼーの志",1
-10,"アリゼーの志","やがて流れは海へと注ぐ",1
-11,"やがて流れは海へと注ぐ","新たなる冒険",1
-12,"新たなる冒険","未知なる冒険へ",1
-13,"未知なる冒険へ","アレクサンドリアからの報せ",1
-14,"アレクサンドリアからの報せ","",1
-15,"","新たな蛮神",1
-16,"新たな蛮神","古代アラグ文明の遺産",1
-17,"古代アラグ文明の遺産","破滅への胎動",1
-18,"破滅への胎動","古の神",1
-19,"古の神","空賊たち",1
-20,"空賊たち","オメガの消息",1
-21,"オメガの消息","追われた巡業一座",2
-22,"追われた巡業一座","鬼の棲む島",1
-23,"鬼の棲む島","始まりの「楽園」",1
-24,"始まりの「楽園」","コメラの村の噂",1
-25,"コメラの村の噂","ウェポン襲来",1
-26,"ウェポン襲来","「パンデモニウム」への警告",1
-27,"「パンデモニウム」への警告","委員会へのとある依頼",2
-28,"委員会へのとある依頼","アルカディアの挑戦者",1
-29,"アルカディアの挑戦者","交わる世界",1
-30,"交わる世界","",1
-31,""," 新事業！ トラル旅行公司",2
-32," 新事業！ トラル旅行公司","荒野に逆巻く騒擾",2
-33,"","",2
-34,"荒野に逆巻く騒擾","仮宿を訪ねて",2
-35,"仮宿を訪ねて","人造硝石強奪犯を追え",2
-36,"人造硝石強奪犯を追え","深海より来たりしもの",2
-37,"深海より来たりしもの","雷雨来たりなば",2
-38,"雷雨来たりなば"," 花冠の逃亡者",2
-39," 花冠の逃亡者"," 名なしのグナース族",2
-40," 名なしのグナース族"," 人を惑わす修復団！",2
-41," 人を惑わす修復団！","",2
-42,""," 新たな仲間は光の戦士",2
-43," 新たな仲間は光の戦士","潤えナマズ",2
-44,"潤えナマズ"," 夢と現の狭間で",2
-45," 夢と現の狭間で"," 正史紡ぎし民ぞ来たり",2
-46," 正史紡ぎし民ぞ来たり"," ワッツハンマー・ガレージ、始動！",2
-47," ワッツハンマー・ガレージ、始動！"," 爆走ヒッポ、島を駆る",2
-48," 爆走ヒッポ、島を駆る"," 忘れられた大地の味",2
-49," 忘れられた大地の味"," 始めよう、ドリーミング！",2
-50," 始めよう、ドリーミング！","新たな蛮族事件（双蛇党）",2
-51,"新たな蛮族事件（双蛇党）","追憶行",2
-52,"追憶行","謎の事件屋",2
-53,"謎の事件屋","英雄の武器を求めて",2
-54,"英雄の武器を求めて","廃キャンプに眠る財宝",2
-55,"廃キャンプに眠る財宝"," 時代の終焉を綴る",2
-56," 時代の終焉を綴る","",2
-57,"","森の都グリダニアへ",3
-58,"森の都グリダニアへ","砂の都ウルダハへ",3
-59,"砂の都ウルダハへ","ギルドリーヴ開放「アドネール占星台」",3
-60,"ギルドリーヴ開放「アドネール占星台」","麒麟、現世に降り立たん",3
-61,"麒麟、現世に降り立たん","イシュガルドの歴史",3
-62,"イシュガルドの歴史","一石二鳥の鳥退治",3
-63,"一石二鳥の鳥退治","巡回調査",3
-64,"巡回調査","アラグ式トレーニング",3
-65,"アラグ式トレーニング","魔導兵器は暴走する",3
-66,"魔導兵器は暴走する","「刺突漁」で魚を狙え",3
-67,"「刺突漁」で魚を狙え","九尾、現世に舞い降りん",3
-68,"九尾、現世に舞い降りん"," 医療館のお手伝いさん募集中！",3
-69," 医療館のお手伝いさん募集中！"," 浜辺に遺された品",3
-70," 浜辺に遺された品"," ノルマの代わりに",3
-71," ノルマの代わりに"," 名前の意味",3
-72," 名前の意味"," 森染めの加護",3
-73," 森染めの加護"," オレンジ色の夢",3
-74," オレンジ色の夢","無窮の翼、現世に飛翔せん",3
-75,"無窮の翼、現世に飛翔せん"," ぎっくり腰にご用心！",3
-76," ぎっくり腰にご用心！"," 持ち寄られた物資確認",3
-77," 持ち寄られた物資確認"," ザ・キャロット・オブ・フォー",3
-78," ザ・キャロット・オブ・フォー"," 鉱石好きの黒いアイツ",3
-79," 鉱石好きの黒いアイツ"," 鳴り止まぬ恐怖の音",3
-80," 鳴り止まぬ恐怖の音"," とりどりのマムージャ",3
-81," とりどりのマムージャ"," 極上のブツ",3
-82," 極上のブツ"," 伝承の泉に願うこと",3
-83," 伝承の泉に願うこと","最強の剣術士",3
-84,"最強の剣術士","自然を紡ぐ幻術士",2
-85,"自然を紡ぐ幻術士","木工師ベアティヌ先生",2
-86,"木工師ベアティヌ先生","採掘師アダルベルタ女史",2
-87,"採掘師アダルベルタ女史","若き経営者、イオラ",2
-88,"若き経営者、イオラ","ルルシャ教授と奇妙な遺物",2
-89,"ルルシャ教授と奇妙な遺物","街の金荒物屋さん",2
-90,"街の金荒物屋さん","自由騎士の誓約",2
-91,"自由騎士の誓約","偉人の後継者",2
-92,"偉人の後継者","顔に傷のある男",2
-93,"顔に傷のある男","激闘のウルヴズジェイル（黒渦団）",2
-94,"激闘のウルヴズジェイル（黒渦団）","馬奉行と降神祭",2
-95,"馬奉行と降神祭","時がふたりを分かつまで",2
-96,"時がふたりを分かつまで","リーヴテスト06",2
-97,"リーヴテスト06","確認採集：崩れかけた石壁の撤去作業",3
-98,"確認採集：崩れかけた石壁の撤去作業","リーヴテスト01",3
-99,"リーヴテスト01","指定採集：塩漬け用のアンチョビ",3
-100,"指定採集：塩漬け用のアンチョビ","製作依頼：双蛇党の訓練用長槍",3
-101,"製作依頼：双蛇党の訓練用長槍","製作依頼：輸出用のハチェット",3
-102,"製作依頼：輸出用のハチェット","製作依頼：在庫用の銅塊（甲冑師）",3
-103,"製作依頼：在庫用の銅塊（甲冑師）","製作依頼：不足分の粗銅塊",3
-104,"製作依頼：不足分の粗銅塊","製作依頼：職人向け革頭巾",3
-105,"製作依頼：職人向け革頭巾","製作依頼：安価な下着",3
-106,"製作依頼：安価な下着","製作依頼：毒薬の材料",3
-107,"製作依頼：毒薬の材料","製作依頼：保存食用の食塩",3
-108,"製作依頼：保存食用の食塩","防衛指令：獣に狙われた補給物資",3
-109,"","",3
-110,"","",3
-111,"","",3
-112,"","",3
-113,"","",3
-114,"","",3
-115,"","",3
-116,"","",3
-117,"","",3
-118,"","",3
-119,"","",3
-120,"","",3
-121,"","",2
-122,"防衛指令：獣に狙われた補給物資","天然要害 サスタシャ浸食洞",2
-123,"天然要害 サスタシャ浸食洞","廃砦捜索 ダスクヴィジル",2
-124,"廃砦捜索 ダスクヴィジル","漂流海域 セイレーン海",2
-125,"漂流海域 セイレーン海","殺戮郷村 ホルミンスター",2
-126,"殺戮郷村 ホルミンスター","異形楼閣 ゾットの塔",2
-127,"異形楼閣 ゾットの塔","濁流遡上 イフイカ・トゥム",2
-128,"濁流遡上 イフイカ・トゥム",,2
-129,"","",2
+0,"CompleteJournal#0","CompleteJournal#306",0
+1,"CompleteJournal#306","CompleteJournal#521",1
+2,"CompleteJournal#521","CompleteJournal#601",1
+3,"CompleteJournal#601","CompleteJournal#695",1
+4,"CompleteJournal#695","CompleteJournal#720",1
+5,"CompleteJournal#720","CompleteJournal#739",1
+6,"CompleteJournal#739","CompleteJournal#861",1
+7,"CompleteJournal#861","CompleteJournal#901",1
+8,"CompleteJournal#901","CompleteJournal#1008",1
+9,"CompleteJournal#1008","CompleteJournal#1040",1
+10,"CompleteJournal#1040","CompleteJournal#1059",1
+11,"CompleteJournal#1059","CompleteJournal#1167",1
+12,"CompleteJournal#1167","CompleteJournal#1214",1
+13,"CompleteJournal#1214","CompleteJournal#1314",1
+14,"CompleteJournal#1314","CompleteJournal#1329",1
+15,"CompleteJournal#1329","CompleteJournal#1345",1
+16,"CompleteJournal#1345","CompleteJournal#1351",1
+17,"CompleteJournal#1351","CompleteJournal#1361",1
+18,"CompleteJournal#1361","CompleteJournal#1376",1
+19,"CompleteJournal#1376","CompleteJournal#1386",1
+20,"CompleteJournal#1386","CompleteJournal#1393",1
+21,"CompleteJournal#1393","CompleteJournal#1410",2
+22,"CompleteJournal#1410","CompleteJournal#1422",1
+23,"CompleteJournal#1422","CompleteJournal#1427",1
+24,"CompleteJournal#1427","CompleteJournal#1445",1
+25,"CompleteJournal#1445","CompleteJournal#1465",1
+26,"CompleteJournal#1465","CompleteJournal#1471",1
+27,"CompleteJournal#1471","CompleteJournal#1488",2
+28,"CompleteJournal#1488","CompleteJournal#1498",1
+29,"CompleteJournal#1498","CompleteJournal#1510",1
+30,"CompleteJournal#1510","CompleteJournal#1514",1
+31,"CompleteJournal#1514","CompleteJournal#1548",2
+32,"CompleteJournal#1548","CompleteJournal#1582",2
+33,"CompleteJournal#0","CompleteJournal#0",2
+34,"CompleteJournal#1582","CompleteJournal#1617",2
+35,"CompleteJournal#1617","CompleteJournal#1652",2
+36,"CompleteJournal#1652","CompleteJournal#1687",2
+37,"CompleteJournal#1687","CompleteJournal#1722",2
+38,"CompleteJournal#1722","CompleteJournal#1764",2
+39,"CompleteJournal#1764","CompleteJournal#1802",2
+40,"CompleteJournal#1802","CompleteJournal#1828",2
+41,"CompleteJournal#1828","CompleteJournal#1866",2
+42,"CompleteJournal#1866","CompleteJournal#1897",2
+43,"CompleteJournal#1897","CompleteJournal#1931",2
+44,"CompleteJournal#1931","CompleteJournal#1966",2
+45,"CompleteJournal#1966","CompleteJournal#2000",2
+46,"CompleteJournal#2000","CompleteJournal#2040",2
+47,"CompleteJournal#2040","CompleteJournal#2074",2
+48,"CompleteJournal#2074","CompleteJournal#2108",2
+49,"CompleteJournal#2108","CompleteJournal#2142",2
+50,"CompleteJournal#2142","CompleteJournal#2176",2
+51,"CompleteJournal#2176","CompleteJournal#2195",2
+52,"CompleteJournal#2195","CompleteJournal#2203",2
+53,"CompleteJournal#2203","CompleteJournal#2262",2
+54,"CompleteJournal#2262","CompleteJournal#2333",2
+55,"CompleteJournal#2333","CompleteJournal#2423",2
+56,"CompleteJournal#2423","CompleteJournal#2473",2
+57,"CompleteJournal#2473","CompleteJournal#2603",3
+58,"CompleteJournal#2603","CompleteJournal#2721",3
+59,"CompleteJournal#2721","CompleteJournal#2859",3
+60,"CompleteJournal#2859","CompleteJournal#2942",3
+61,"CompleteJournal#2942","CompleteJournal#2986",3
+62,"CompleteJournal#2986","CompleteJournal#3009",3
+63,"CompleteJournal#3009","CompleteJournal#3045",3
+64,"CompleteJournal#3045","CompleteJournal#3218",3
+65,"CompleteJournal#3218","CompleteJournal#3232",3
+66,"CompleteJournal#3232","CompleteJournal#3339",3
+67,"CompleteJournal#3339","CompleteJournal#3479",3
+68,"CompleteJournal#3479","CompleteJournal#3499",3
+69,"CompleteJournal#3499","CompleteJournal#3548",3
+70,"CompleteJournal#3548","CompleteJournal#3605",3
+71,"CompleteJournal#3605","CompleteJournal#3656",3
+72,"CompleteJournal#3656","CompleteJournal#3701",3
+73,"CompleteJournal#3701","CompleteJournal#3747",3
+74,"CompleteJournal#3747","CompleteJournal#3766",3
+75,"CompleteJournal#3766","CompleteJournal#3830",3
+76,"CompleteJournal#3830","CompleteJournal#3874",3
+77,"CompleteJournal#3874","CompleteJournal#3907",3
+78,"CompleteJournal#3907","CompleteJournal#3927",3
+79,"CompleteJournal#3927","CompleteJournal#3976",3
+80,"CompleteJournal#3976","CompleteJournal#3996",3
+81,"CompleteJournal#3996","CompleteJournal#4105",3
+82,"CompleteJournal#4105","CompleteJournal#4164",3
+83,"CompleteJournal#4164","CompleteJournal#4172",3
+84,"CompleteJournal#4172","CompleteJournal#4232",2
+85,"CompleteJournal#4232","CompleteJournal#4263",2
+86,"CompleteJournal#4263","CompleteJournal#4439",2
+87,"CompleteJournal#4439","CompleteJournal#4505",2
+88,"CompleteJournal#4505","CompleteJournal#4522",2
+89,"CompleteJournal#4522","CompleteJournal#4559",2
+90,"CompleteJournal#4559","CompleteJournal#4596",2
+91,"CompleteJournal#4596","CompleteJournal#4794",2
+92,"CompleteJournal#4794","CompleteJournal#4942",2
+93,"CompleteJournal#4942","CompleteJournal#5037",2
+94,"CompleteJournal#5037","CompleteJournal#5052",2
+95,"CompleteJournal#5052","CompleteJournal#5336",2
+96,"CompleteJournal#5336","CompleteJournal#5354",2
+97,"CompleteJournal#5354","CompleteJournal#5561",3
+98,"CompleteJournal#5561","CompleteJournal#5691",3
+99,"CompleteJournal#5691","CompleteJournal#5827",3
+100,"CompleteJournal#5827","CompleteJournal#5947",3
+101,"CompleteJournal#5947","CompleteJournal#6088",3
+102,"CompleteJournal#6088","CompleteJournal#6228",3
+103,"CompleteJournal#6228","CompleteJournal#6368",3
+104,"CompleteJournal#6368","CompleteJournal#6508",3
+105,"CompleteJournal#6508","CompleteJournal#6648",3
+106,"CompleteJournal#6648","CompleteJournal#6788",3
+107,"CompleteJournal#6788","CompleteJournal#6928",3
+108,"CompleteJournal#6928","CompleteJournal#7068",3
+109,"CompleteJournal#0","CompleteJournal#0",3
+110,"CompleteJournal#0","CompleteJournal#0",3
+111,"CompleteJournal#0","CompleteJournal#0",3
+112,"CompleteJournal#0","CompleteJournal#0",3
+113,"CompleteJournal#0","CompleteJournal#0",3
+114,"CompleteJournal#0","CompleteJournal#0",3
+115,"CompleteJournal#0","CompleteJournal#0",3
+116,"CompleteJournal#0","CompleteJournal#0",3
+117,"CompleteJournal#0","CompleteJournal#0",3
+118,"CompleteJournal#0","CompleteJournal#0",3
+119,"CompleteJournal#0","CompleteJournal#0",3
+120,"CompleteJournal#0","CompleteJournal#0",3
+121,"CompleteJournal#0","CompleteJournal#0",2
+122,"CompleteJournal#7068","CompleteJournal#7134",2
+123,"CompleteJournal#7134","CompleteJournal#7225",2
+124,"CompleteJournal#7225","CompleteJournal#7305",2
+125,"CompleteJournal#7305","CompleteJournal#7381",2
+126,"CompleteJournal#7381","CompleteJournal#7442",2
+127,"CompleteJournal#7442","CompleteJournal#7519",2
+128,"CompleteJournal#7519",,2
+129,"CompleteJournal#0","CompleteJournal#0",2

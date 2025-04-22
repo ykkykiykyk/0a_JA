@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,LegacyQuestID,Text,String,SortKey,Genre
+#,LegacyQuestID,Text,String,SortKey,
 int32,uint16,str,str,uint16,uint32
 0,0,"","",0,0
 1,0,"姿なき声","",1,338
